@@ -10,14 +10,14 @@ React is an open source JavaScript library, focused on creating user interfaces 
 - yarn
 
 #### Libraries, Packages and Dependencies used:
-- Create React 
-npm install -g create-react-app
+- Create React
+  npm install -g create-react-app
 
 - Access external API 
-yarn add axios
+  yarn add axios
 
 - Project starting 
-npm start
+  npm start
 
 - Navigation between pages 
-yarn add react-router-dom
+  yarn add react-router-dom
