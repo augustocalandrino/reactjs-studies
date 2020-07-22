@@ -16,8 +16,6 @@ npm install -g create-react-app
 - Access external API
 yarn add axios
 
-
-
 - Project starting
 npm start
 
